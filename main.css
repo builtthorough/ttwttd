@@ -1,0 +1,68 @@
+/* Banner*/
+
+#skillgoal {    
+    text-align: center;
+}
+
+/* Lists*/
+
+.column {
+    float: left;
+    width: 50%;
+    height: 550px;
+    background-color: lightgrey;
+    text-align: center;
+    border-radius: 2px;
+    
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+#vertical_line {
+    background-color: #000;
+    position: absolute;
+    width: 1px;
+    height: 380px;
+    top: 190px;
+    left: 50%;
+    display: block;
+}
+
+/* Input Boxes*/
+
+.input {
+    width: 50%;
+    margin: 10px;
+}
+
+/* List Items*/
+
+.list li {
+    text-align: left;
+    list-style-type: none;
+    padding: 5px;
+
+}
+/*Remove Buttons lkjgf*/
+
+.remove_button {
+    display: inline-block;
+    font-size: .8em;
+    background-color: red;
+    color: white;
+    border-radius: 3px;
+    padding: 3px 6px;
+    border: 0;
+    margin-left: 15px; 
+    opacity: .4;
+    text-decoration: none;
+
+}
+
+.remove_button:hover {
+    opacity: 5; 
+}
