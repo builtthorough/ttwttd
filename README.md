@@ -4,4 +4,4 @@ I developed this project with Php, MySQL and Netbeans IDE. I downloaded MAMP to 
 
 I am currently working on a web-based version of this web-application but, in the meantime, please view the below snaphsot of the web-app as developed on Netbeans.
 
-![Image of TTWTTD web application](images/TTWTTD_Netbeans Screenshot_11-12-19.png)
+![Image of TTWTTD Web Application](images/TTWTTD_Netbeans Screenshot_11-12-19.png)
