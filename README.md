@@ -6,4 +6,4 @@ I am currently working on a web-based version of this web-application but, in th
 
 ![Image of TTWTTD Web Application in Browser](images/TTWTTD_Netbeans Screenshot_11-12-19.png)
 
-![Image of TypeRTracker Output in Console](images/PyCharm_Screenshot_11-12-19.png)
+![Image of TypeRTracker Output in Console](https://github.com/builtthorough/typertracker/images/PyCharm_Screenshot_11-12-19.png)
